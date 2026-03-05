@@ -1,4 +1,4 @@
-# 👋 Hello, I'm CortexStackH
+# 👋 Hello, I'm Hussain Yousafzaii,
 🚀 Aspiring AI & Software Engineer  
 💻 Building Web Projects & AI Systems  
 🧠 Passionate about learning new technologies and creating real-world applications.
